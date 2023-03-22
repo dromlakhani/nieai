@@ -1,0 +1,8 @@
+
+llama_index
+langchain
+openai
+streamlit
+python-dotenv
+gradio
+boto3
